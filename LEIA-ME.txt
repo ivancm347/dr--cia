@@ -1,0 +1,12 @@
+Achadinhos do Ivan - v5 com Mercado Livre
+
+Adicionei o Pinador INGCO 42V com seu link do Mercado Livre.
+
+Como subir:
+1. Faz upload de TODA a pasta no GitHub: index.html + pasta images/
+2. Ativa GitHub Pages
+3. O produto novo já aparece com botão amarelo "Mercado Livre"
+
+Para Google Sites: mesmo esquema do iframe.
+
+Obs: A imagem está em /images/pinador-42v.jpg
